@@ -1,15 +1,15 @@
 # Cascading style sheet
 ---
-Declaration
-property: value;
-color:red;
+## Declaration
+* property: value;
+* color:red;
 ---
-Ruleset
-h1, p {
+## Ruleset
+* h1, p {
     color: blue;
     margin: 10px;
 }
 
 ---
-COmments
+## COmments
 /* --text-*/
