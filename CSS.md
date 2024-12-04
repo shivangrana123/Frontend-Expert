@@ -11,5 +11,8 @@
 }
 
 ---
-## COmments
+## Comments
 /* --text-*/
+
+## linking
+<link rel="stylesheet" href="styles.css"/>
