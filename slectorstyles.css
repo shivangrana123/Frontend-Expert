@@ -1,0 +1,12 @@
+.h1 {
+
+    color: blue;
+}
+
+#footerHeading{
+    color: red;
+}
+
+a[href="https://algoexpert.io"] {
+    color: green;
+}
