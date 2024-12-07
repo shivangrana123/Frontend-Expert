@@ -1,0 +1,42 @@
+p::before{
+    content: ">";
+}
+
+p::after{
+    content: "!";
+}
+
+p::first-letter{
+    font-size: 2em;
+}
+
+p:first-of-type{
+    color: orange;
+}
+
+p:last-of-type{
+    color: aqua;
+}
+
+p:first-child{
+    color:purple
+}
+
+p:nth-of-type(3){
+    color: pink;
+}
+
+input:focus{
+    outline: 2px solid blue;
+}
+
+input:invalid:not(:focus){
+    outline: 2px solid red;
+}
+
+a:link {
+    color:red;
+}
+a:visited{
+    color: green;
+}
