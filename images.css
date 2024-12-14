@@ -1,0 +1,11 @@
+#algoexpert {
+    width: 300px;
+    height: 200px;
+    border: 10px dashed black;
+    padding:  10px;
+    background-image: url('algoexpert.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-clip: border-box;
+}
