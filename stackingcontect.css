@@ -1,17 +1,22 @@
+section {
+    position: fixed;
+    z-index: 4;
+}
+
 #red {
     z-index: 1;
     background-color: red;
 }
 
 #blue {
-    z-index: 4;
+    z-index: 2;
     background-color: blue;
     top: 100px;
     left:150px;
 }
 
 #green {
-    z-index: 3;
+    z-index: 5;
     background-color: green;
     top: 200px;
     left:40px;
