@@ -1,3 +1,5 @@
+---
+---
 ## **Month 1: Frontend Basics + C# Fundamentals**
 
 ### **HTML, CSS, and JavaScript**
@@ -21,7 +23,7 @@
 ### **C# Fundamentals**  
 1. **C# Basics**:
    - **Course**: Udemy – "C# Basics for Beginners" by Mosh Hamedani  
-   - **Course**: [Pluralsight – C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals)  
+   - **Course**: [Pluralsight – C# Fundamentals](https://app.pluralsight.com/library/courses/c-sharp-10-fundamentals/table-of-contents)  
    - **Documentation**: [Microsoft Learn – C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)  
    - **Book**: "C# 10 in a Nutshell" by Joseph Albahari  
 
