@@ -1,5 +1,3 @@
----
-
 ## **Month 1: Frontend Basics + C# Fundamentals**
 
 ### **HTML, CSS, and JavaScript**
