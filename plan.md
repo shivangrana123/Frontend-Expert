@@ -176,5 +176,4 @@
 - **Practice**: [LeetCode](https://leetcode.com/), [AlgoExpert](https://www.algoexpert.io/), [HackerRank](https://www.hackerrank.com/)
 
 ---
-
-This list gives you the **complete study material** with curated resources and tools to become a full-stack .NET developer. Let me know if you need further clarification or more alternatives for any specific topic!
+---
