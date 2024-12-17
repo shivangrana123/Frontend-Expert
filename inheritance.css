@@ -1,0 +1,10 @@
+main{
+    color: red;
+    border: 2px solid black;
+}
+
+button {
+    all: inherit;
+    color: unset;
+    /* border: revert; */
+}
