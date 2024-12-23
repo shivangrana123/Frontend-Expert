@@ -1,0 +1,79 @@
+.head {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #ffc0cb;
+    border: 5px solid black;
+    margin-top: 20px;
+}
+
+.ear {
+    position: absolute;
+    z-index: -1;
+    width: 50px;
+    height: 50px;
+    top:-10px;
+    border-radius: 50%;
+    background-color: #ffc0cb;
+    border: 5px solid black;
+}
+
+.ear:first-child {
+    left: 10px;
+}
+
+.ear:nth-child(2) {
+    right: 10px;
+}
+
+.eye {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.eye:first-child {
+    left: 30px;
+}
+
+.eye:nth-child(2) {
+    right: 30px;
+}
+
+.pupil {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.nose {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100px;
+    height: 60px;
+    bottom: 30px;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    border-radius: 35%;
+    background-color: #f57187;
+    border: 2px solid black;
+}
+
+.nostril {
+    width: 25%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: black;
+}
