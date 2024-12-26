@@ -1,0 +1,35 @@
+#wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+
+#algo-expert {
+    background-color: #626ee3;
+  }
+  
+  #systems-expert {
+    background-color: #890023;
+  }
+  
+  #ml-expert {
+    background-color: #f37f1b;
+  }
+  
+  #frontend-expert {
+    background-color: #11967e;
+  }
+  
+  #programming-expert {
+    background-color: #f21b3f;
+  }
+  
+  .product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+  }
