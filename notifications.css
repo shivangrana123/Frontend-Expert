@@ -1,0 +1,65 @@
+#wrapper {
+    width: 280px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 0 10px 0;
+    text-decoration: underline;
+}
+
+img {
+    grid-area: photo;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#notifications {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.notification {
+    display: grid;
+    grid-template-areas: 
+    'photo text'
+    'photo time';
+    gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.time {
+    grid-area: time;
+    align-self: end;
+    justify-self: end;
+    margin: 0;
+    font-size: 12px;
+    font-style: italic;
+}
+
+p {
+    grid-area: text;
+    margin: 0;
+}
+
+.user {
+    font-weight: bold;
+}
+
+button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: #02203c;
+    color: white;
+}
